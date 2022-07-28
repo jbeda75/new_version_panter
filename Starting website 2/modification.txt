@@ -1,0 +1,14 @@
+modification de la langue du site :ligne4 fichier html
+ligne 6 ajout du content 
+ligne 16 a 20 ajout de defer dans les scripts
+deplacement apres footer de ces lignes
+
+ajout de title :ligne22 <title>Agence La Panthère - entreprise web design - Lyon</title>
+suppression du contenu blackhat ligne40 ,ligne41
+supression de li vides ligne50,ligne51
+ligne51 changement de texte et de url pour la page contact.html
+ajout de title au liens ligne48 et 51
+modification dune div en footer ligne211 et 283 
+et deplacement des cripts de la ligne 16-20 a la ligne285
+
+page 2.html: modification de la langue ligne2
